@@ -2,7 +2,7 @@ import { extendTheme } from "@chakra-ui/react";
 import foundations from "./foundations";
 
 const overrides = {
-    ...foundations,
+	...foundations,
 };
 
 export default extendTheme(overrides);

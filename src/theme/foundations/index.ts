@@ -1,7 +1,7 @@
 import * as typograhpy from "./typography";
 
 const foundations = {
-    ...typograhpy,
+	...typograhpy,
 };
 
 export default foundations;
