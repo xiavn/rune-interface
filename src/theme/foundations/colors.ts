@@ -1,4 +1,4 @@
-const colors = {
+export const colors = {
 	blue: {
 		50: "#e5f3ff",
 		100: "#b8d9fa",
@@ -60,5 +60,3 @@ const colors = {
 		900: "#1e0000",
 	},
 };
-
-export default colors;
